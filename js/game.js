@@ -161,7 +161,7 @@ class Boss extends Enemy {
     this.imgList = imgList_boss;
     this.hp = 6;  
     this.hp_max = 6;
-    this.score = 10; 
+    this.score = 20; 
     this.adjustPosition();
   }
 }
