@@ -146,8 +146,8 @@ class Enemy2 extends Enemy {
     this.width = 45;
     this.height = 35;
     this.imgList = imgList_enemy2;
-    this.hp = 5;  
-    this.hp_max = 5;
+    this.hp = 4;  
+    this.hp_max = 4;
     this.score = 10; 
     this.adjustPosition();
   }
