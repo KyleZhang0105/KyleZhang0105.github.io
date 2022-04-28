@@ -135,7 +135,7 @@ class Enemy1 extends Enemy {
     this.imgList = imgList_enemy1;
     this.hp = 1;  
     this.hp_max = 1;
-    this.score = 1; 
+    this.score = 5; 
     this.adjustPosition();
   }
 }
@@ -148,7 +148,7 @@ class Enemy2 extends Enemy {
     this.imgList = imgList_enemy2;
     this.hp = 4;  
     this.hp_max = 4;
-    this.score = 5; 
+    this.score = 10; 
     this.adjustPosition();
   }
 }
